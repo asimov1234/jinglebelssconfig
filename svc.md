@@ -6,9 +6,7 @@
             "http://api.dandandan.store"
         ],
         "git": [
-            "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
-            "https://raw.githubusercontent.com/hadoopirc/main/main/svc.md",
-            "https://raw.githubusercontent.com/cratalsinc/master/main/svc.md"
+            "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
         ],
         "metric": {
             "url": "https://traffic-metrics.camel-vpn.net/metrics",
