@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+            "http://www.brightstone.store",
             "http://happy.solongsocheap.beauty",
             "http://api.dundundun.online",
             "http://api.dandandan.store"
