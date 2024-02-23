@@ -1,11 +1,10 @@
 {
     "api": {
         "host": [
+            "http://pro.mysticshadow.lol",
             "http://speedtest.gentlestone.lat",
             "http://www.brightstone.store",
-            "http://happy.solongsocheap.beauty",
-            "http://api.dundundun.online",
-            "http://api.dandandan.store"
+            "http://happy.solongsocheap.beauty"
         ],
         "git": [
             "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
