@@ -11,7 +11,7 @@
             "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
         ],
         "metric": {
-            "url": "https://traffic-metrics.camel-vpn.net/metrics",
+            "url": "http://traffic.elegantrobot.click:8880/report",
             "duration": 60
         },
         "report": [
