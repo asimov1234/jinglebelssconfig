@@ -2,7 +2,7 @@
     "api": {
         "host": [
              "http://app.elegantrobot.click",
-            "http://pro.mysticshadow.lol",
+            "http://api.silkyapple.com",
             "http://speedtest.gentlestone.lat",
             "http://www.brightstone.store",
             "http://happy.solongsocheap.beauty"
