@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+             "http://www.zestysunshine.com",
              "http://app.elegantrobot.click",
             "http://api.silkyapple.com",
             "http://speedtest.gentlestone.lat",
