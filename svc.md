@@ -9,7 +9,7 @@
             "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
         ],
         "metric": {
-            "url": "http://traffic.elegantrobot.click:8880/report",
+            "url": "http://eightzero.elegantrobot.click/report",
             "duration": 60
         },
         "report": [
