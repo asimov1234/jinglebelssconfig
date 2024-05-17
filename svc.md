@@ -2,6 +2,8 @@
     "api": {
         "host": [
              "http://www.zestysunshine.com",
+             "http://www.zestysunshine.com:8080",
+             "https://www.zestysunshine.com",
              "http://app.elegantrobot.click",
             "http://api.silkyapple.com"
         ],
