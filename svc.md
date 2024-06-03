@@ -12,7 +12,7 @@
             "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
         ],
         "metric": {
-            "url": "http://eightzero.elegantrobot.click/report",
+            "url": "http://api.gameglide.net/report",
             "duration": 60
         },
         "report": [
