@@ -1,7 +1,7 @@
 {
     "api": {
         "host": [
-             "http://www.swiftbutterfly.lol",
+
              "http://www.zestysunshine.com",
              "http://www.zestysunshine.com:8080",
              "https://www.zestysunshine.com",
