@@ -1,7 +1,8 @@
 {
     "api": {
         "host": [
-
+            "https://api.ngintom.com",
+            "http://api.ngintom.com",
              "http://www.zestysunshine.com",
              "http://www.zestysunshine.com:8080",
              "https://www.zestysunshine.com",
