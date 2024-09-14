@@ -21,6 +21,7 @@
         ],
         "reportv2":[
             "http://www.9o0g1e.com/v2/report"
-        ]
+        ],
+        "connreport":"https://report.camel-vpn.net/info.php"
     }
 }
