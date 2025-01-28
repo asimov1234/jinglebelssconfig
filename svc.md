@@ -1,6 +1,7 @@
 {
   "api": {
     "host": [
+      "https://www.fluffycloudypillow.com",
       "https://api.ngintom.com",
       "http://api.ngintom.com",
       "http://www.zestysunshine.com",
