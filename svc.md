@@ -2,13 +2,7 @@
   "api": {
     "host": [
       "https://www.fluffycloudypillow.com",
-      "https://api.ngintom.com",
-      "http://api.ngintom.com",
-      "http://www.zestysunshine.com",
-      "http://www.zestysunshine.com:8080",
-      "https://www.zestysunshine.com",
-      "http://app.elegantrobot.click",
-      "http://api.silkyapple.com"
+      "http://www.fluffycloudypillow.com"
     ],
     "git": [
       "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
