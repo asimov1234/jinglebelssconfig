@@ -1,8 +1,7 @@
 {
   "api": {
     "host": [
-      "https://api.cozyfirlacmth.com",
-      "https://www.fluffycloudypillow.com"
+      "https://api.cozyfirlacmth.com"
     ],
     "git": [
       "https://raw.githubusercontent.com/asimov1234/jinglebelssconfig/main/svc.md"
